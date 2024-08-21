@@ -1,0 +1,14 @@
+/home/tiyo5151/c#Practice/helloworld/bin/Debug/net8.0/helloworld
+/home/tiyo5151/c#Practice/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/home/tiyo5151/c#Practice/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/home/tiyo5151/c#Practice/helloworld/bin/Debug/net8.0/helloworld.dll
+/home/tiyo5151/c#Practice/helloworld/bin/Debug/net8.0/helloworld.pdb
+/home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/helloworld.dll
+/home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/helloworld.pdb
+/home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/ref/helloworld.dll
