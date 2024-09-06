@@ -66,15 +66,35 @@ while (counter < 5);
 
 for (int i = 0; i < 5; i++)
 {
-  if (i == 3) {
-  Console.WriteLine(i);
+  if (i == 3)
+  {
+    Console.WriteLine(i);
   }
 }
 
 for (int row = 1; row < 11; row++)
 {
-    for (char column = 'a'; column < 'k'; column++)
-    {
-        Console.WriteLine($"The cell is ({row}, {column})");
-    }
+  for (char column = 'a'; column < 'k'; column++)
+  {
+    Console.WriteLine($"The cell is ({row}, {column})");
+  }
 }
+
+List<string> names = ["Scott", "Ana", "Felipe"];
+foreach (var name in names)
+{
+  Console.WriteLine($"Hello {name.ToUpper()}!");
+}
+
+names.Add("David");
+names.Add("Damian");
+names.Add("maria");
+
+for (int i = 0; i < names.Count; i++)
+{
+  Console.WriteLine($"Hello {names[i].ToUpper()}!");
+}
+
+Console.WriteLine(names[0]);
+Console.WriteLine(names[2]);
+Console.WriteLine(names[^1]);

@@ -1,0 +1,5 @@
+/home/tiyo5151/c#Practice/obj/Debug/net8.0/c#Practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiyo5151/c#Practice/obj/Debug/net8.0/c#Practice.AssemblyInfoInputs.cache
+/home/tiyo5151/c#Practice/obj/Debug/net8.0/c#Practice.AssemblyInfo.cs
+/home/tiyo5151/c#Practice/obj/Debug/net8.0/c#Practice.csproj.CoreCompileInputs.cache
+/home/tiyo5151/c#Practice/obj/Debug/net8.0/c#Practice.sourcelink.json

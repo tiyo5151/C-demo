@@ -12,3 +12,4 @@
 /home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/helloworld.pdb
 /home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
 /home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/ref/helloworld.dll
+/home/tiyo5151/c#Practice/helloworld/obj/Debug/net8.0/helloworld.sourcelink.json
