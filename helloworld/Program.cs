@@ -86,6 +86,7 @@ foreach (var name in names)
   Console.WriteLine($"Hello {name.ToUpper()}!");
 }
 
+names.Sort();
 names.Add("David");
 names.Add("Damian");
 names.Add("maria");
@@ -95,6 +96,31 @@ for (int i = 0; i < names.Count; i++)
   Console.WriteLine($"Hello {names[i].ToUpper()}!");
 }
 
-Console.WriteLine(names[0]);
-Console.WriteLine(names[2]);
-Console.WriteLine(names[^1]);
+// Console.WriteLine(names[0]);
+// Console.WriteLine(names[2]);
+// Console.WriteLine(names[^1]);
+
+// foreach (var name in names[2..4])
+// {
+//   Console.WriteLine($"Hello {name.ToUpper()}!");
+// }
+
+// var names2 = new string[] { "Scott", "Ana", "Felipe" };
+
+// names2 = [..names2, "Damian"];
+
+// foreach (var name in names2)
+// {
+//   Console.WriteLine($"Hello {name.ToUpper()}!");
+// }
+
+var numbs = new List<int> {23,674,789,23,21,34,62,99};
+
+Console.WriteLine($"I found 99 at index {numbs.IndexOf(99)}");
+numbs.Sort();
+Console.WriteLine($"I found 99 at index {numbs.IndexOf(99)}");
+
+// foreach (var n in numbs)
+// {
+//   Console.WriteLine(n);
+// }
